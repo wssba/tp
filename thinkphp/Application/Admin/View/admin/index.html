@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<style>
+    .hello{
+        font-size: 25px;color: red;
+        margin-left:200px;
+        padding: 30px;
+        border-left: 2px solid #00a0e9;
+    }
+</style>
+<include file="./Application/Admin/View/header.html" />
+<include file="./Application/Admin/View/footer.html" />
+<div class="hello">
+    <p>你好 <?php echo $_SESSION['username'];?>!</p>
+    <p>欢迎来到test_shop商城后台商品管理页面，</p>
+    <p>请点击左侧相关按钮，执行相应的商品的管理和添加操作。</p>
+</div>

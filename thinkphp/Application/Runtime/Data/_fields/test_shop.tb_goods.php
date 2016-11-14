@@ -1,0 +1,1 @@
+a:7:{i:0;s:8:"goods_id";i:1;s:10:"goods_name";i:2;s:5:"price";i:3;s:8:"oldprice";i:4;s:7:"content";s:3:"_pk";s:8:"goods_id";s:5:"_type";a:5:{s:8:"goods_id";s:7:"int(11)";s:10:"goods_name";s:11:"varchar(50)";s:5:"price";s:13:"decimal(10,2)";s:8:"oldprice";s:13:"decimal(10,2)";s:7:"content";s:4:"text";}}
